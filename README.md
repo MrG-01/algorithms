@@ -1,2 +1,2 @@
 # algorithms
-code and notes for interesting algorithms
+python and notes for interesting algorithms
